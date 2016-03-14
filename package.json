@@ -1,0 +1,25 @@
+{
+  "name": "cmd-zepto",
+  "version": "0.0.1",
+  "description": "cmd compatible zepto.",
+  "main": "index.js",
+  "keywords": [
+    "zepto",
+    "npm zepto",
+    "webpack zepto"
+  ],
+  "author": {
+    "name": "pychen"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingyuanChen/cmd-zepto.git"
+  },
+  "maintainers": [
+    {
+      "name": "pychen",
+      "email": "cpy891204@gmail.com"
+    }
+  ]
+}
